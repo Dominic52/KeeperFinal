@@ -1,2 +1,0 @@
-# KeeperFinal
-Created with CodeSandbox
