@@ -43,7 +43,7 @@ function CreateArea(props) {
           <input
             name="title"
             onChange={handleChange}
-            autocomplete="off"
+            autoComplete="off"
             value={note.title}
             placeholder="Title"
           />
